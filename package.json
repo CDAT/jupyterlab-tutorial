@@ -52,8 +52,5 @@
   },
   "sideEffects": [
     "style/*.css"
-  ],
-  "jupyterlab": {
-    "extension": true
-  }
+  ]
 }
