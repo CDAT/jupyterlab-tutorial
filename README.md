@@ -1,7 +1,7 @@
 # jupyterlab-tutorial
 
 A package which provides a tutorial manager for incorporating interactive tutorials within JupyterLab.
-
+Front-end components provided by React Joyride: https://github.com/gilbarbara/react-joyride
 
 ## Prerequisites
 
