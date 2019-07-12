@@ -46,7 +46,7 @@ export class TutorialLauncher extends React.Component<
       throw new Error("The tutorial was null or undefined!");
     }
     if (!tutorial.hasSteps) {
-      throw new Error("The tutorial doesn't have any steps!");
+      return;
     }
 
     // If a previous tutorial was launched, end it early and fire started signal for new tutorial
@@ -86,19 +86,6 @@ export class TutorialLauncher extends React.Component<
       };
       this.launchTutorial(tutorials[0]);
       tutorials[0].finished.connect(callback);
-    }
-  }
-
-  async setStep(tutorial: Tutorial, index: number): Promise<void> {
-    if (!tutorial) {
-      throw new Error("The tutorial is null or undefined!");
-    }
-    if (!tutorial.hasSteps) {
-      throw new Error("The tutorial has no steps!");
-    }
-    const maxIndex: number = tutorial.steps.length - 1;
-    if (index < 0 || index > maxIndex) {
-      throw new Error(`Step index out of range! Step range: [0,${maxIndex}]`);
     }
   }
 

@@ -38,6 +38,10 @@ export type TutorialOptions = {
   styles: StyleOptions;
 };
 
+/**
+ * This class contains default values that are used by the tutorials.
+ * Default tutorial steps are available which give a simple overview of Jupyter Lab.
+ */
 export class TutorialDefault {
   private constructor() {}
 

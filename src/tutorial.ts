@@ -1,35 +1,34 @@
 import { Placement, Step, CallBackProps } from "react-joyride";
 import { Menu } from "@phosphor/widgets";
 import { Signal, ISignal } from "@phosphor/signaling";
-import { TutorialDefault, TutorialOptions, LocaleOptions } from "./constants";
+import { TutorialDefault, TutorialOptions } from "./constants";
 import { ITutorial } from "./tokens";
+import { IDisposable } from "@phosphor/disposable";
 
 export class Tutorial implements ITutorial {
-  id: string;
-  label: string;
-
   _skipped: Signal<this, CallBackProps>;
   _finished: Signal<this, CallBackProps>;
   _started: Signal<this, CallBackProps>;
   _stepChanged: Signal<this, CallBackProps>;
 
-  private _command: string;
+  private _id: string;
+  private _commandID: string;
+  private _commandDisposable: IDisposable;
   private _menuButtons: Menu.IItem[];
   private _options: TutorialOptions;
   private _steps: Step[];
-  static DEFAULT_LOCALE: LocaleOptions;
 
   constructor(
     id: string,
-    command: string,
-    label?: string,
+    commandID: string,
+    commandDisposable: IDisposable,
     options?: TutorialOptions
   ) {
-    this._command = command;
+    this._commandID = commandID;
+    this._commandDisposable = commandDisposable;
     this._skipped = new Signal<this, CallBackProps>(this);
     this._finished = new Signal<this, CallBackProps>(this);
-    this.id = id;
-    this.label = label;
+    this._id = id;
     this._menuButtons = Array<Menu.IItem>();
     this._options = { ...options, ...TutorialDefault.options };
     this._started = new Signal<this, CallBackProps>(this);
@@ -43,8 +42,12 @@ export class Tutorial implements ITutorial {
     this.removeStep = this.removeStep.bind(this);
   }
 
-  get skipped(): ISignal<this, CallBackProps> {
-    return this._skipped;
+  get commandDisposable(): IDisposable {
+    return this._commandDisposable;
+  }
+
+  get commandID(): string {
+    return this._commandID;
   }
 
   get finished(): ISignal<this, CallBackProps> {
@@ -54,8 +57,8 @@ export class Tutorial implements ITutorial {
     return this.steps.length > 0;
   }
 
-  get menuButtons(): Menu.IItem[] {
-    return this._menuButtons;
+  get id(): string {
+    return this._id;
   }
 
   get options(): TutorialOptions {
@@ -64,6 +67,10 @@ export class Tutorial implements ITutorial {
 
   set options(options: TutorialOptions) {
     this._options = options;
+  }
+
+  get skipped(): ISignal<this, CallBackProps> {
+    return this._skipped;
   }
 
   get started(): ISignal<this, CallBackProps> {
@@ -88,14 +95,13 @@ export class Tutorial implements ITutorial {
     }
   }
 
-  addTutorialToMenu(menu: Menu, buttonOptions?: Menu.IItemOptions): Menu.IItem {
-    const btnOptions = {
+  addTutorialToMenu(menu: Menu): Menu.IItem {
+    const btnOptions: Menu.IItemOptions = {
       args: {},
-      command: this._command
+      command: this._commandID
     };
-    const menuButton: Menu.IItem = menu.addItem(
-      buttonOptions ? buttonOptions : btnOptions
-    );
+
+    const menuButton: Menu.IItem = menu.addItem(btnOptions);
     this._menuButtons.push(menuButton);
     return menuButton;
   }

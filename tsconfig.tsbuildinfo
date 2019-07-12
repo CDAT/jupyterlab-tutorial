@@ -342,16 +342,16 @@
         "signature": "aad0ea7b0a66262d94ee507eb934f70affc7cda5631f05587a45c401f20d8b5f"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tokens.ts": {
-        "version": "2a27094a0a28a32024345248c69a2baa6e76083ebfc038048066d5ea4d441af2",
-        "signature": "4f51af79619acbd0b98758c17070cc3e1adee02e917ed2bd37b6db6cfd4ee599"
+        "version": "c5b82fc89db728973b3899fe79ad920bf7502e6d469c299561958d5c722d2cc3",
+        "signature": "4aed0a95d77e8e55a7e39d41805d2745b933146b0eff104ef4452d8313d15801"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorial.ts": {
-        "version": "36d2c42cc9972bcdf8ad924e1f7991f8185b9fdf259e5f911b2ade57b3dcab29",
-        "signature": "e34004318b6a1f5c9e8eb02846c66143274f5a762af45a55a784952409e6e158"
+        "version": "a7cbd6be39092b26a82defef194ba11c5c192124e61d92f033a62a224c77e32b",
+        "signature": "116f387330dbdcda0d666968215950752dfdd5b2fe9921771402a5e12f79f02a"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutoriallauncher.tsx": {
-        "version": "3d85bb18bc3c77b92fc8ebb4088bdabb732ba36213175416b4ba338c4b6ce18f",
-        "signature": "f88562710035a038a2a06c82249211b1da1dd3baaa4ffeed128378eed8fa76c1"
+        "version": "04c9a809696fbd8cc0c0034bfac4bda330683e7dad9bb1d184b87227ae03318a",
+        "signature": "c16a609c9375685fa6352bc8d38467c3270b88565fd6584bd6b12bc6326980ce"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@types/react-dom/index.d.ts": {
         "version": "5fe76ea99187e695f2e7ee00ddb0c9db41b217397ade188b8a137504728f687f",
@@ -806,12 +806,12 @@
         "signature": "2a5d64da2fa9e998e60a501ad19bac2a0cb2a671efa15f5c87f8725fbf4178ea"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorialmanager.tsx": {
-        "version": "5afab3895ed8bdc0b7bfceebb0f7566072844e15d87fcf26614deb8616ba02dd",
-        "signature": "49b02e0453e004ae874c211ecbe27de02df162201ec5fa34a07df0c366901833"
+        "version": "4f1881696739ce1c4b154c7070bd3b7466a5ac5eb839171041f5b72aec90ecd3",
+        "signature": "5ed885a8b054ce5090b801ecf47226666b76481d81cacb44ffe308418a157588"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/index.ts": {
-        "version": "a47f09f39db7f2af243cb1107089216d1777239cb97b2ce5a61a26b91810a3ed",
-        "signature": "b42bf65aa7619e076c29b3a392da8c65466a32c581f5c6cdd448f20509a0394a"
+        "version": "1f4cbf9b8000ff30612c751e9fa507a476d01558f87b7dfd156a1140f9ad9f7f",
+        "signature": "2d676229fa7e9f7ab183ef9590655643909cc2b29935b6355eabdda7d6c40726"
       }
     },
     "options": {
@@ -1097,7 +1097,8 @@
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/constants.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tokens.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tokens.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/disposable/lib/index.d.ts"
       ],
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutoriallauncher.tsx": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@types/react/index.d.ts",
@@ -1767,7 +1768,6 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/index.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tokens.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/constants.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorial.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorialmanager.tsx"
       ]
     },
@@ -2030,6 +2030,7 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorial.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/react-joyride/types/index.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/constants.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tokens.ts"
@@ -2695,7 +2696,6 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/index.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tokens.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/constants.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorial.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorialmanager.tsx"
       ]
     },

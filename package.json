@@ -1,6 +1,6 @@
 {
   "name": "@downie4/jupyterlab-tutorial",
-  "version": "0.1.0",
+  "version": "0.7.0",
   "description": "A package which provides a tutorial manager for incorporating interactive tutorials within JupyterLab.",
   "keywords": [
     "jupyter",
