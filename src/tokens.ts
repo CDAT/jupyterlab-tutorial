@@ -1,11 +1,16 @@
 import { Step, CallBackProps, Placement } from "react-joyride";
 import { Menu } from "@phosphor/widgets";
 import { ISignal } from "@phosphor/signaling";
-import { TutorialOptions } from "./constants";
 import { Token } from "@phosphor/coreutils";
+
+import { TutorialOptions } from "./constants";
 
 export const ITutorial = new Token<ITutorial>(
   "@cdat/jupyterlab-tutorial-manager:ITutorial"
+);
+
+export const ITutorialManager = new Token<ITutorialManager>(
+  "@cdat/jupyterlab-tutorial-manager:ITutorialManager"
 );
 
 export interface ITutorial {
@@ -81,10 +86,6 @@ export interface ITutorial {
   steps: Step[];
 }
 
-export const ITutorialManager = new Token<ITutorialManager>(
-  "@cdat/jupyterlab-tutorial-manager:ITutorialManager"
-);
-
 export interface ITutorialManager {
   /**
    * Creates an interactive Tutorial object that can be customized and run by the TutorialManager.
@@ -99,12 +100,16 @@ export interface ITutorialManager {
    * If the array is empty or no tutorials have steps, this will be a no-op.
    * @param tutorials An array of tutorials or tutorialIDs to launch.
    */
+  launch(...tutorials: ITutorial[]): Promise<void>;
+  launch(...tutorialIDs: string[]): Promise<void>;
   launch(...tutorials: ITutorial[] | string[]): Promise<void>;
 
   /**
    * Removes the tutorial and its associated command from the application. 
-   * @param tutorial The Tutorial object or the id of the tutorial to remove
+   * @param tutorial The Tutorial object or the id of the tutorial object to remove
    */
+  removeTutorial(tutorial: ITutorial): void;
+  removeTutorial(tutorialID: string): void;
   removeTutorial(tutorial: string | ITutorial): void;
 
   readonly tutorials: Map<string, ITutorial>;
