@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-tutorial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package which provides a tutorial manager for incorporating interactive tutorials within JupyterLab.",
   "keywords": [
     "jupyter",
