@@ -10,7 +10,7 @@ Front-end components provided by React Joyride: https://github.com/gilbarbara/re
 ## Installation
 
 ```bash
-jupyter labextension install @downie4/jupyterlab-tutorial
+jupyter labextension install jupyterlab-tutorial
 ```
 
 ## Development
