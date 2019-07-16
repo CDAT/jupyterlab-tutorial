@@ -6,11 +6,11 @@ import { Token } from "@phosphor/coreutils";
 import { TutorialOptions } from "./constants";
 
 export const ITutorial = new Token<ITutorial>(
-  "@cdat/jupyterlab-tutorial-manager:ITutorial"
+  "@cdat/jupyterlab-tutorial:ITutorial"
 );
 
 export const ITutorialManager = new Token<ITutorialManager>(
-  "@cdat/jupyterlab-tutorial-manager:ITutorialManager"
+  "@cdat/jupyterlab-tutorial:ITutorialManager"
 );
 
 export interface ITutorial {
