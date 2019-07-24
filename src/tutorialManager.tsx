@@ -37,6 +37,7 @@ export class TutorialManager extends Widget implements ITutorialManager {
 
     this.createTutorial = this.createTutorial.bind(this);
     this.launch = this.launch.bind(this);
+    this.refreshTutorial = this.refreshTutorial.bind(this);
     this.removeTutorial = this.removeTutorial.bind(this);
 
     ReactDOM.render(
@@ -78,7 +79,12 @@ export class TutorialManager extends Widget implements ITutorialManager {
     });
 
     // Create tutorial and add it to help menu if needed
-    let newTutorial: Tutorial = new Tutorial(id, commandID, commandDisposable);
+    let newTutorial: Tutorial = new Tutorial(
+      id,
+      commandID,
+      commandDisposable,
+      this
+    );
     if (addToHelpMenu) {
       newTutorial.addTutorialToMenu(this.menu.helpMenu.menu);
     }
@@ -95,7 +101,6 @@ export class TutorialManager extends Widget implements ITutorialManager {
     if (!tutorials || tutorials.length === 0) {
       return;
     }
-
     const tutorialGroup = Array<Tutorial>();
 
     // If the array provided consists of tutorials already, add tutorials that have steps.
@@ -140,5 +145,9 @@ export class TutorialManager extends Widget implements ITutorialManager {
     tutorial.commandDisposable.dispose();
     // Remove tutorial from the list
     this._tutorials.delete(id);
+  }
+
+  refreshTutorial(tutorial: Tutorial): void {
+    this._tutorialLauncher.refreshTutorial(tutorial);
   }
 }

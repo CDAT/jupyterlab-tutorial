@@ -44,41 +44,57 @@ export interface ITutorial {
    * A signal emitted when all the steps of the tutorial have been seen and tutorial is finished.
    */
   readonly finished: ISignal<this, CallBackProps>;
+
   /**
    * True if the tutorial has steps, otherwise false. Launching a tutorial without steps is a no-op.
    */
   readonly hasSteps: boolean;
+
   /**
    * The id of the tutorial, used by the tutorial manager to track different tutorials.
    */
   readonly id: string;
+
   /**
    * Each tutorial can have it's behavior, attributes and css styling customized
    * by accessing and setting its options.
    */
   options: TutorialOptions;
+
+  /**
+   * This will replace the tutorial step at the specified index with a new step
+   * @param index The index of the step to update.
+   * @param newStep The new step that will replace the old step.
+   */
+  replaceStep(index: number, newStep: Step): void;
+
   /**
    * Will remove the tutorial from the specified menu so that its button is no longer there.
    * @param menu The menu to remove the tutorial from. this is a no-op ff the tutorial is not in the menu.
    */
   removeTutorialFromMenu(menu: Menu): void;
+
   /**
    * Removes a step from the tutorial, no-op if the index is out of range.
    * @param index The index of the step to remove.
    */
   removeStep(index: number): Step;
+
   /**
    * A signal emitted when the tutorial is first launched.
    */
   readonly started: ISignal<this, CallBackProps>;
+
   /**
    * A signal emitted when the tutorial step has changed.
    */
   readonly stepChanged: ISignal<this, CallBackProps>;
+
   /**
    * A signal emitted if the user skips or ends the tutorial prematurely.
    */
   readonly skipped: ISignal<this, CallBackProps>;
+
   /**
    * The array of steps the tutorial currently contains. Each step will be followed
    * in order as the tutorial progresses.
@@ -95,7 +111,7 @@ export interface ITutorialManager {
    */
   createTutorial(id: string, label: string, addToHelpMenu: boolean): ITutorial;
 
-    /**
+  /**
    * Launches a tutorial or series of tutorials one after another in order of the array provided.
    * If the array is empty or no tutorials have steps, this will be a no-op.
    * @param tutorials An array of tutorials or tutorialIDs to launch.
@@ -105,7 +121,7 @@ export interface ITutorialManager {
   launch(...tutorials: ITutorial[] | string[]): Promise<void>;
 
   /**
-   * Removes the tutorial and its associated command from the application. 
+   * Removes the tutorial and its associated command from the application.
    * @param tutorial The Tutorial object or the id of the tutorial object to remove
    */
   removeTutorial(tutorial: ITutorial): void;

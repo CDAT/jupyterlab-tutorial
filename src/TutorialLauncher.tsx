@@ -39,6 +39,7 @@ export class TutorialLauncher extends React.Component<
     this.handleJoyrideEvents = this.handleJoyrideEvents.bind(this);
     this.launchTutorial = this.launchTutorial.bind(this);
     this.launchTutorialGroup = this.launchTutorialGroup.bind(this);
+    this.refreshTutorial = this.refreshTutorial.bind(this);
   }
 
   async launchTutorial(tutorial: Tutorial): Promise<void> {
@@ -73,7 +74,6 @@ export class TutorialLauncher extends React.Component<
     if (!tutorials || tutorials.length <= 0) {
       return;
     }
-
     if (tutorials.length === 1) {
       this.launchTutorial(tutorials[0]);
     } else {
@@ -87,6 +87,10 @@ export class TutorialLauncher extends React.Component<
       this.launchTutorial(tutorials[0]);
       tutorials[0].finished.connect(callback);
     }
+  }
+
+  refreshTutorial(tutorial: Tutorial): void {
+    this.setState({ tutorial: tutorial });
   }
 
   render(): JSX.Element {
@@ -126,11 +130,7 @@ export class TutorialLauncher extends React.Component<
     if (!data) {
       return;
     }
-    const {
-      status,
-      step,
-      index
-    } = data;
+    const { status, step, index } = data;
 
     // Handle status changes when they occur
     if (status !== this._prevStatus) {

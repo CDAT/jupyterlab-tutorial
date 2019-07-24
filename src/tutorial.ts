@@ -4,6 +4,7 @@ import { Signal, ISignal } from "@phosphor/signaling";
 import { TutorialDefault, TutorialOptions } from "./constants";
 import { ITutorial } from "./tokens";
 import { IDisposable } from "@phosphor/disposable";
+import { TutorialManager } from "./tutorialManager";
 
 export class Tutorial implements ITutorial {
   _skipped: Signal<this, CallBackProps>;
@@ -17,11 +18,13 @@ export class Tutorial implements ITutorial {
   private _menuButtons: Menu.IItem[];
   private _options: TutorialOptions;
   private _steps: Step[];
+  private _tutorialManager: TutorialManager;
 
   constructor(
     id: string,
     commandID: string,
     commandDisposable: IDisposable,
+    tutorialManager: TutorialManager,
     options?: TutorialOptions
   ) {
     this._commandID = commandID;
@@ -34,12 +37,14 @@ export class Tutorial implements ITutorial {
     this._started = new Signal<this, CallBackProps>(this);
     this._stepChanged = new Signal<this, CallBackProps>(this);
     this._steps = new Array<Step>();
+    this._tutorialManager = tutorialManager;
 
     this.addStep = this.addStep.bind(this);
     this.addTutorialToMenu = this.addTutorialToMenu.bind(this);
     this.createAndAddStep = this.createAndAddStep.bind(this);
     this.removeTutorialFromMenu = this.removeTutorialFromMenu.bind(this);
     this.removeStep = this.removeStep.bind(this);
+    this.replaceStep = this.replaceStep.bind(this);
   }
 
   get commandDisposable(): IDisposable {
@@ -67,6 +72,7 @@ export class Tutorial implements ITutorial {
 
   set options(options: TutorialOptions) {
     this._options = options;
+    this._tutorialManager.refreshTutorial(this);
   }
 
   get skipped(): ISignal<this, CallBackProps> {
@@ -87,12 +93,14 @@ export class Tutorial implements ITutorial {
 
   set steps(steps: Step[]) {
     this._steps = steps;
+    this._tutorialManager.refreshTutorial(this);
   }
 
   addStep(step: Step): void {
     if (step) {
       this.steps.push(step);
     }
+    this._tutorialManager.refreshTutorial(this);
   }
 
   addTutorialToMenu(menu: Menu): Menu.IItem {
@@ -120,6 +128,15 @@ export class Tutorial implements ITutorial {
     };
     this.addStep(newStep);
     return newStep;
+  }
+
+  replaceStep(index: number, newStep: Step): void {
+    if (index < 0 || index >= this.steps.length) {
+      return;
+    }
+    let updatedSteps: Step[] = this._steps;
+    updatedSteps[index] = newStep;
+    this.steps = updatedSteps;
   }
 
   removeTutorialFromMenu(menu: Menu): Menu.IItem[] {
