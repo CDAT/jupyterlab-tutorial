@@ -53,6 +53,10 @@ export class TutorialManager extends Widget implements ITutorialManager {
     );
   }
 
+  get activeTutorial(): ITutorial {
+    return this._tutorialLauncher.activeTutorial;
+  }
+
   get tutorials(): Map<string, ITutorial> {
     return this._tutorials;
   }

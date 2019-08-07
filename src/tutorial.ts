@@ -7,6 +7,7 @@ import { IDisposable } from "@phosphor/disposable";
 import { TutorialManager } from "./tutorialManager";
 
 export class Tutorial implements ITutorial {
+  _currentStepIndex: number;
   _skipped: Signal<this, CallBackProps>;
   _finished: Signal<this, CallBackProps>;
   _started: Signal<this, CallBackProps>;
@@ -29,6 +30,7 @@ export class Tutorial implements ITutorial {
   ) {
     this._commandID = commandID;
     this._commandDisposable = commandDisposable;
+    this._currentStepIndex = -1;
     this._skipped = new Signal<this, CallBackProps>(this);
     this._finished = new Signal<this, CallBackProps>(this);
     this._id = id;
@@ -53,6 +55,10 @@ export class Tutorial implements ITutorial {
 
   get commandID(): string {
     return this._commandID;
+  }
+
+  get currentStepIndex(): number {
+    return this._currentStepIndex;
   }
 
   get finished(): ISignal<this, CallBackProps> {

@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-tutorial",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A package which provides a tutorial manager for incorporating interactive tutorials within JupyterLab.",
   "keywords": [
     "jupyter",
@@ -31,15 +31,15 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^1.0.0",
-    "@jupyterlab/mainmenu": "^1.0.1",
-    "@types/react": "^16.8.23",
-    "@types/react-dom": "^16.8.4",
+    "@jupyterlab/application": "^1.0.2",
+    "@jupyterlab/mainmenu": "^1.0.2",
+    "@types/react": "^16.8.24",
+    "@types/react-dom": "^16.8.5",
     "@types/react-joyride": "^2.0.2",
     "prop-types": "^15.0.0",
-    "react": "^16.8",
-    "react-dom": "^16.8.4",
-    "react-joyride": "^2.0.5"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-joyride": "^2.1.1"
   },
   "devDependencies": {
     "prettier": "^1.18.2",

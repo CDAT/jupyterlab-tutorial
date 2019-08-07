@@ -20,10 +20,13 @@ export class TutorialLauncher extends React.Component<
   ITutorialLauncherProps,
   ITutorialLauncherState
 > {
+  private _activeTutorial: ITutorial;
   private _prevStatus: string;
   private _prevStepIndex: number;
+
   constructor(props: ITutorialLauncherProps) {
     super(props);
+    this._activeTutorial = null;
     this._prevStatus = STATUS.READY;
     this._prevStepIndex = -1;
 
@@ -42,6 +45,10 @@ export class TutorialLauncher extends React.Component<
     this.refreshTutorial = this.refreshTutorial.bind(this);
   }
 
+  get activeTutorial(): ITutorial {
+    return this._activeTutorial;
+  }
+
   async launchTutorial(tutorial: Tutorial): Promise<void> {
     if (!tutorial) {
       throw new Error("The tutorial was null or undefined!");
@@ -49,6 +56,9 @@ export class TutorialLauncher extends React.Component<
     if (!tutorial.hasSteps) {
       return;
     }
+
+    // Set as active tutorial
+    this._activeTutorial = tutorial;
 
     // If a previous tutorial was launched, end it early and fire started signal for new tutorial
     if (this.state.run && this.state.tutorial) {
@@ -135,6 +145,8 @@ export class TutorialLauncher extends React.Component<
     // Handle status changes when they occur
     if (status !== this._prevStatus) {
       this._prevStatus = status;
+      this.state.tutorial._currentStepIndex = -1;
+      this._activeTutorial = null;
       if (status === STATUS.FINISHED) {
         this.state.tutorial._finished.emit(data);
         this.setState({ run: false });
@@ -142,6 +154,8 @@ export class TutorialLauncher extends React.Component<
         this.state.tutorial._skipped.emit(data);
         this.setState({ run: false });
       } else if (status === STATUS.RUNNING) {
+        this._activeTutorial = this.state.tutorial;
+        this.state.tutorial._currentStepIndex = 0;
         this.state.tutorial._started.emit(data);
       } else if (status === STATUS.ERROR) {
         console.error(`An error occurred with the tutorial at step: ${step}`);
@@ -151,6 +165,7 @@ export class TutorialLauncher extends React.Component<
     // Emit step change event
     if (status === STATUS.RUNNING && index !== this._prevStepIndex) {
       this._prevStepIndex = index;
+      this.state.tutorial._currentStepIndex = data.index;
       this.state.tutorial._stepChanged.emit(data);
     }
   }

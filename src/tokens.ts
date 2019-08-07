@@ -40,6 +40,12 @@ export interface ITutorial {
     placement?: Placement,
     title?: string
   ): Step;
+
+  /**
+   * The index of the current step of the tutorial. Returns -1 if tutorial isn't active.
+   */
+  readonly currentStepIndex: number;
+
   /**
    * A signal emitted when all the steps of the tutorial have been seen and tutorial is finished.
    */
@@ -104,6 +110,11 @@ export interface ITutorial {
 
 export interface ITutorialManager {
   /**
+   * The currently active tutorial. Null if no tutorial is currently running.
+   */
+  readonly activeTutorial: ITutorial;
+
+  /**
    * Creates an interactive Tutorial object that can be customized and run by the TutorialManager.
    * @param id The id used to track the tutorial.
    * @param label The label to use for the tutorial. If added to help menu, this would be the button text.
@@ -128,5 +139,9 @@ export interface ITutorialManager {
   removeTutorial(tutorialID: string): void;
   removeTutorial(tutorial: string | ITutorial): void;
 
+  /**
+   * A key/value map of the tutorials that the tutorial manager contains.
+   * Key: ID of the tutorial, value: tutorial object.
+   */
   readonly tutorials: Map<string, ITutorial>;
 }

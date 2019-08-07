@@ -98,8 +98,8 @@
         "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@types/react/global.d.ts": {
-        "version": "68188f9f0950ca019af3f061cb494751a2798648586207cbf2089dccd68b663c",
-        "signature": "68188f9f0950ca019af3f061cb494751a2798648586207cbf2089dccd68b663c"
+        "version": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314",
+        "signature": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/csstype/index.d.ts": {
         "version": "599c67cf56a35a8a7bee5bcd877dece4cb71553efb763ebf1050c6987acfaefc",
@@ -110,96 +110,100 @@
         "signature": "5e632216dfe01f2ff76f1c312c28632fde75364c24d659b732f2ee59e9ccf1b2"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@types/react/index.d.ts": {
-        "version": "ca7fd0b19265fdc74c5ffdc43c0e30d69a246b300b45da34834d7f37bc52caef",
-        "signature": "ca7fd0b19265fdc74c5ffdc43c0e30d69a246b300b45da34834d7f37bc52caef"
+        "version": "3b62b2451f021c4512691c57658e78cc72cf47bee60fddb41b17b5a492284bc5",
+        "signature": "3b62b2451f021c4512691c57658e78cc72cf47bee60fddb41b17b5a492284bc5"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/errorboundary.tsx": {
         "version": "c7b6e592ef8ff9c969ee5bb56f38f7ec387666cedd458be3a5c102d17bb3de83",
         "signature": "6d16dd297e04d53b184f203836362e5aba9a483e14fd8abf9e5d856083c23a83"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/react-joyride/types/index.d.ts": {
-        "version": "160a96fc757e092a26b918b11a0b61bf82795ceb11932b53944f38265993bd33",
-        "signature": "160a96fc757e092a26b918b11a0b61bf82795ceb11932b53944f38265993bd33"
+        "version": "51590be32185578c17c982a099dfe55002154b6908a94b03d4f4735d29d04038",
+        "signature": "51590be32185578c17c982a099dfe55002154b6908a94b03d4f4735d29d04038"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/widgets/lib/boxengine.d.ts": {
         "version": "f654ea3b882ce71f203fd785673e48e365008940c094c922c4d503c1f3b358f0",
         "signature": "f654ea3b882ce71f203fd785673e48e365008940c094c922c4d503c1f3b358f0"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/messaging/lib/index.d.ts": {
-        "version": "8b879d92487be3d7fda0ca6ca603edd2371025809af5253444136d7e5d7458a3",
-        "signature": "8b879d92487be3d7fda0ca6ca603edd2371025809af5253444136d7e5d7458a3"
+        "version": "6d4bce054cce22306edccc85e738a800ea0364a82e85f9bf61156ed03604d24f",
+        "signature": "6d4bce054cce22306edccc85e738a800ea0364a82e85f9bf61156ed03604d24f"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/array.d.ts": {
-        "version": "3d55b2eb6c2a0f9915ed4c017841d3d89475d5c7c2508741db76b836955c56b5",
-        "signature": "3d55b2eb6c2a0f9915ed4c017841d3d89475d5c7c2508741db76b836955c56b5"
+        "version": "5275faae938513e793a5ea551efa77b43a47bbfac8ed8550753ec217376f24ca",
+        "signature": "5275faae938513e793a5ea551efa77b43a47bbfac8ed8550753ec217376f24ca"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts": {
-        "version": "95e815c6acb66b0e4ecda7e5ec9cdc56a5015e618903f03a3a1eb0e0a10c35d5",
-        "signature": "95e815c6acb66b0e4ecda7e5ec9cdc56a5015e618903f03a3a1eb0e0a10c35d5"
+        "version": "b0fe7c947694eb4f0f736af28a853b0a8dc59074329a3d9a3eb5967fbe83c10d",
+        "signature": "b0fe7c947694eb4f0f736af28a853b0a8dc59074329a3d9a3eb5967fbe83c10d"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/chain.d.ts": {
-        "version": "c0e749db4da2d3b9ee39f955d238de7e370f89bd1a14220b9128826753d0a781",
-        "signature": "c0e749db4da2d3b9ee39f955d238de7e370f89bd1a14220b9128826753d0a781"
+        "version": "5d3db7107b3138edf0ddb9851bbba99caeb6b3e32074da4c7b45e751c296183b",
+        "signature": "5d3db7107b3138edf0ddb9851bbba99caeb6b3e32074da4c7b45e751c296183b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/empty.d.ts": {
-        "version": "ff512b1bc0ef6c129f99b140cd9f8f2ae4ff0be0e1514f234b5ff7f310c79bd0",
-        "signature": "ff512b1bc0ef6c129f99b140cd9f8f2ae4ff0be0e1514f234b5ff7f310c79bd0"
+        "version": "b86137c60e0c62f7acfd8f0e761170bc6920c105ef03868c0518be562a5c5908",
+        "signature": "b86137c60e0c62f7acfd8f0e761170bc6920c105ef03868c0518be562a5c5908"
+      },
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/enumerate.d.ts": {
+        "version": "7ba39fedc2104c6d69f7f583e10ced54256f8d8e42770c754097e75f041cfb7d",
+        "signature": "7ba39fedc2104c6d69f7f583e10ced54256f8d8e42770c754097e75f041cfb7d"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/filter.d.ts": {
-        "version": "aa1e1191fe9a8984314940148e35719316d70f1f46e1c7211273d2a51f8361da",
-        "signature": "aa1e1191fe9a8984314940148e35719316d70f1f46e1c7211273d2a51f8361da"
+        "version": "69d5afc46850b54ef3388769cd339f8dc88e15cd74a189bf71dac3937b4e8850",
+        "signature": "69d5afc46850b54ef3388769cd339f8dc88e15cd74a189bf71dac3937b4e8850"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/find.d.ts": {
-        "version": "ced1b7dad8a9ea23a5b1178e0f695fbc00a14e1c1eae546359cc90ec4e6457db",
-        "signature": "ced1b7dad8a9ea23a5b1178e0f695fbc00a14e1c1eae546359cc90ec4e6457db"
+        "version": "a8db70d3ad601f4cf3c779623a3ca232606db0c1d052cf3f1d7a3a695bcbd368",
+        "signature": "a8db70d3ad601f4cf3c779623a3ca232606db0c1d052cf3f1d7a3a695bcbd368"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/map.d.ts": {
-        "version": "7ea641ecda420d366ed6df4c6a02c3546e017e50a1bbd4dee6ac9e20de3c8633",
-        "signature": "7ea641ecda420d366ed6df4c6a02c3546e017e50a1bbd4dee6ac9e20de3c8633"
+        "version": "6256ad6e7c41a9f9ecb6349b5d5be72ea2c60ba1c6c6b3954929eb59a6980688",
+        "signature": "6256ad6e7c41a9f9ecb6349b5d5be72ea2c60ba1c6c6b3954929eb59a6980688"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/range.d.ts": {
-        "version": "ef779693e9f47e3483c48f99d41d344f2fb9f73d2d8e54aba2df544e0cfd07de",
-        "signature": "ef779693e9f47e3483c48f99d41d344f2fb9f73d2d8e54aba2df544e0cfd07de"
+        "version": "77596a948c8deffc8f059fa0f3c38688f3b05caefa303506074034b5cb1a56ae",
+        "signature": "77596a948c8deffc8f059fa0f3c38688f3b05caefa303506074034b5cb1a56ae"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/reduce.d.ts": {
-        "version": "e4a260bf17d565e11281020e45df6099566482c6de3ac920f62f203c28619e5c",
-        "signature": "e4a260bf17d565e11281020e45df6099566482c6de3ac920f62f203c28619e5c"
+        "version": "81ef0fab583499ba45dab44490620e7b870597d90c5e562ec5a9b38b6bd3fcdf",
+        "signature": "81ef0fab583499ba45dab44490620e7b870597d90c5e562ec5a9b38b6bd3fcdf"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/repeat.d.ts": {
-        "version": "b346e0e5f56a472bec35f0b803e3a72b26df47eec8ba75fdace5e19f63a159bd",
-        "signature": "b346e0e5f56a472bec35f0b803e3a72b26df47eec8ba75fdace5e19f63a159bd"
+        "version": "f2b309d4f1bdf8e9f4fa03bf2183eb1b2f7cb66efb5b16da52e378ce75ac17bb",
+        "signature": "f2b309d4f1bdf8e9f4fa03bf2183eb1b2f7cb66efb5b16da52e378ce75ac17bb"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/retro.d.ts": {
-        "version": "9a396e53f65da000a5ee6a27a408e58a4166edc354db37c22409655f33cef1da",
-        "signature": "9a396e53f65da000a5ee6a27a408e58a4166edc354db37c22409655f33cef1da"
+        "version": "9cbaf0317ec49acb6c84d142077670a301015979260c4ecded7705fd2141379c",
+        "signature": "9cbaf0317ec49acb6c84d142077670a301015979260c4ecded7705fd2141379c"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/sort.d.ts": {
-        "version": "4921e9c7e8979c5b54a852093c16f6a4c9b0c52fdefa665f51220acfcd70da77",
-        "signature": "4921e9c7e8979c5b54a852093c16f6a4c9b0c52fdefa665f51220acfcd70da77"
+        "version": "5a49d16b6f7d3ca5c66569784290c0ed7a3d74821095e2ab91e17ea444ac4657",
+        "signature": "5a49d16b6f7d3ca5c66569784290c0ed7a3d74821095e2ab91e17ea444ac4657"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/stride.d.ts": {
-        "version": "4f92788f86fc34f2ad4dc8cb5ce7a4dfa517b1df51d526abf5fc0720752b88b5",
-        "signature": "4f92788f86fc34f2ad4dc8cb5ce7a4dfa517b1df51d526abf5fc0720752b88b5"
+        "version": "2e5fab5fe6e398cb14f695da07044a65f4e32c8d0fe9b31f5fe52d2cc7656230",
+        "signature": "2e5fab5fe6e398cb14f695da07044a65f4e32c8d0fe9b31f5fe52d2cc7656230"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/string.d.ts": {
-        "version": "d485ff5ac0034d9f5bce42ceb0277c4d8eff695d749b56e76b0c22dea2bd4409",
-        "signature": "d485ff5ac0034d9f5bce42ceb0277c4d8eff695d749b56e76b0c22dea2bd4409"
+        "version": "92e581f3d154511056bfba03e72ed3cffa92681b4b9bb1953b0b724f67a664bc",
+        "signature": "92e581f3d154511056bfba03e72ed3cffa92681b4b9bb1953b0b724f67a664bc"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/take.d.ts": {
-        "version": "4557ecbb6b007b733a2a14f32660e9cd80f43d3e7732da35fe48b2af8f353e41",
-        "signature": "4557ecbb6b007b733a2a14f32660e9cd80f43d3e7732da35fe48b2af8f353e41"
+        "version": "c9deb61903fd8318e6845e4e0f03b3bd813cdae1778f8dc9ee0ec05f9ca22094",
+        "signature": "c9deb61903fd8318e6845e4e0f03b3bd813cdae1778f8dc9ee0ec05f9ca22094"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/zip.d.ts": {
-        "version": "7c242612995f87ddec5355f5085e0f4e5116b6eb5dc292efc1efa43d29a4a8fd",
-        "signature": "7c242612995f87ddec5355f5085e0f4e5116b6eb5dc292efc1efa43d29a4a8fd"
+        "version": "7bc3152a4c8adf395ad486da44acb6e8c98dedd2becc83810b076114338a5045",
+        "signature": "7bc3152a4c8adf395ad486da44acb6e8c98dedd2becc83810b076114338a5045"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/index.d.ts": {
-        "version": "b353faf7fe95e13d63bc5a2e6aa5b5d1f76a3bb01812f1718317a2c481df34f3",
-        "signature": "b353faf7fe95e13d63bc5a2e6aa5b5d1f76a3bb01812f1718317a2c481df34f3"
+        "version": "30a8688575aeada46c1268d671b2a1de78705ebc0d5343e75b96c25f149caa98",
+        "signature": "30a8688575aeada46c1268d671b2a1de78705ebc0d5343e75b96c25f149caa98"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/signaling/lib/index.d.ts": {
-        "version": "e29b5eb559a057d36584ec480d49711f0c81bed176bb6256df584e800c453760",
-        "signature": "e29b5eb559a057d36584ec480d49711f0c81bed176bb6256df584e800c453760"
+        "version": "c8a24a2440a34aea602f23947c59ce8d9d3bbd5301fd80160e9067b3ac3cce6b",
+        "signature": "c8a24a2440a34aea602f23947c59ce8d9d3bbd5301fd80160e9067b3ac3cce6b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/disposable/lib/index.d.ts": {
         "version": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3",
@@ -266,8 +270,8 @@
         "signature": "4f861319baee7ad939c8126e954bd0040e04932c1bd85c524b860573d2e2b949"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/virtualdom/lib/index.d.ts": {
-        "version": "fbee9a4354d27e948319f834c49737ce9c250882805b33120c64db730b22e53b",
-        "signature": "fbee9a4354d27e948319f834c49737ce9c250882805b33120c64db730b22e53b"
+        "version": "e582863f95c72400f8ddadeee51f6339c484aad6815b62a646b6bbedf4f579e2",
+        "signature": "e582863f95c72400f8ddadeee51f6339c484aad6815b62a646b6bbedf4f579e2"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/widgets/lib/commandpalette.d.ts": {
         "version": "be0521f2e8244ebfb630276860a917ec97aa44e5867dc3bf17cc360f2bced539",
@@ -342,16 +346,16 @@
         "signature": "9fba4da484661c4872f39325a81cb3209430444497eb66c21e576a2dea8da893"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tokens.ts": {
-        "version": "ea4034ddedd9cfc015b0dc176797e197aa67d562f61ef87d3c2895c4cbf63d6e",
-        "signature": "03d867be71fb2eabce1827704c88d3c92066f359ac06a5ed56b1e5eb1af52980"
+        "version": "68b26fe1fa93aa53eee99ab319c03f954eab8fdc05c83ce6e1ac632b5d3786db",
+        "signature": "86844fe6af55bc756d30125e40d54b531dcc3adc1ecad671070ef68fe6a15f6e"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@types/react-dom/index.d.ts": {
         "version": "5fe76ea99187e695f2e7ee00ddb0c9db41b217397ade188b8a137504728f687f",
         "signature": "5fe76ea99187e695f2e7ee00ddb0c9db41b217397ade188b8a137504728f687f"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/config/index.d.ts": {
-        "version": "5aae40f1f0d889d6bf9e16c07a94d190a805eee3e76300d00a31e15522483325",
-        "signature": "5aae40f1f0d889d6bf9e16c07a94d190a805eee3e76300d00a31e15522483325"
+        "version": "19cfa3052ebbd4da27f4d002ea75ef70b753489bbc491f8038c310a42567a25d",
+        "signature": "19cfa3052ebbd4da27f4d002ea75ef70b753489bbc491f8038c310a42567a25d"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/observables/lib/observablemap.d.ts": {
         "version": "e396f2c62c7a1d768430052374f6592179277121445368979ab9b338776d17a8",
@@ -382,8 +386,8 @@
         "signature": "14272cf5e560df638409e768e655862b5b9524ecd34a3f6a6ea5f7854af76bb0"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/contents/index.d.ts": {
-        "version": "c3245a4623b0c7415dd707a53fc98c2c0edeffe617bc7cf5fd554e38af35c20d",
-        "signature": "c3245a4623b0c7415dd707a53fc98c2c0edeffe617bc7cf5fd554e38af35c20d"
+        "version": "280da35b4ba9efcc83bdf34884d1ca3a0e1310f7d373630348d1da1c99b24eac",
+        "signature": "280da35b4ba9efcc83bdf34884d1ca3a0e1310f7d373630348d1da1c99b24eac"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts": {
         "version": "f59c8550645a8628771f2bc7f5123b56f156fb5aa023007aa2b1d09e24662d0a",
@@ -454,220 +458,220 @@
         "signature": "e99d6c47524125ad9db0edbc3f82cdc6b9e9f13d8be569c4b993bc08709ca106"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/kernel/messages.d.ts": {
-        "version": "d2f2042c0a792216bc044304ad8ff03e4ea691bc5018d0b41793913d5cde0f51",
-        "signature": "d2f2042c0a792216bc044304ad8ff03e4ea691bc5018d0b41793913d5cde0f51"
+        "version": "e855ba7e987bc4978c9639a38ea5e4f3d0e372cdb24b0f0e0107e52badc5ce01",
+        "signature": "e855ba7e987bc4978c9639a38ea5e4f3d0e372cdb24b0f0e0107e52badc5ce01"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts": {
-        "version": "0e6f07c665a359538890a0b15abd59eb7bb662b4d9a8625f7d129d72cb3bcec6",
-        "signature": "0e6f07c665a359538890a0b15abd59eb7bb662b4d9a8625f7d129d72cb3bcec6"
+        "version": "5c61eb7b375cfb6a41fb18462b11cc1bee82fbe83578324e4f5e4056784d5604",
+        "signature": "5c61eb7b375cfb6a41fb18462b11cc1bee82fbe83578324e4f5e4056784d5604"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/kernel/manager.d.ts": {
-        "version": "294a8ab4be0b476508b2c5871be15ae9f637aa382328763f1f575eccad9a25d8",
-        "signature": "294a8ab4be0b476508b2c5871be15ae9f637aa382328763f1f575eccad9a25d8"
+        "version": "cc3cdc30d66e9a6363dae1a4ff8aab750c95ad218c5768d0348212773f06f80f",
+        "signature": "cc3cdc30d66e9a6363dae1a4ff8aab750c95ad218c5768d0348212773f06f80f"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/kernel/index.d.ts": {
-        "version": "ae73a1de516cbb9d126585fdd58695faa6980c46c88567581a5ec3173d0e1b02",
-        "signature": "ae73a1de516cbb9d126585fdd58695faa6980c46c88567581a5ec3173d0e1b02"
+        "version": "3acabafe6eec986efe95227705c43ea32c28787c9c25fdd79f13c6cf1ad2188e",
+        "signature": "3acabafe6eec986efe95227705c43ea32c28787c9c25fdd79f13c6cf1ad2188e"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/serverconnection.d.ts": {
-        "version": "303c4f3e74785be3f23aef4650a93bfc64f9a4184845b3bf9c7c7d40abf28856",
-        "signature": "303c4f3e74785be3f23aef4650a93bfc64f9a4184845b3bf9c7c7d40abf28856"
+        "version": "5dca0320ec8bcb7c4bc614f21d67e328b5c18b9a16d77afb9d4e8323ed0d9c71",
+        "signature": "5dca0320ec8bcb7c4bc614f21d67e328b5c18b9a16d77afb9d4e8323ed0d9c71"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/builder/index.d.ts": {
-        "version": "8110b014e1b718abc96aaa9ba16b41bac3d3dd62cab2888812d35fde6f11f200",
-        "signature": "8110b014e1b718abc96aaa9ba16b41bac3d3dd62cab2888812d35fde6f11f200"
+        "version": "783ba014543ce3241cbcd3e9f0f193c98ecdb0fae38b15d024fedf944c3ea2c6",
+        "signature": "783ba014543ce3241cbcd3e9f0f193c98ecdb0fae38b15d024fedf944c3ea2c6"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts": {
-        "version": "3e14aaef7a38aa430fb3af41754c8237755851eb991004f245c26c812bfbbbfe",
-        "signature": "3e14aaef7a38aa430fb3af41754c8237755851eb991004f245c26c812bfbbbfe"
+        "version": "e3d73207d0e9c210e4a9d133a929c474f870e9d23ff0075c7d2512a107e50a5e",
+        "signature": "e3d73207d0e9c210e4a9d133a929c474f870e9d23ff0075c7d2512a107e50a5e"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/session/session.d.ts": {
-        "version": "8a6f6b1a39f020686980ce814208a2ec445beacb5180da79e37fa7994ebf9f4c",
-        "signature": "8a6f6b1a39f020686980ce814208a2ec445beacb5180da79e37fa7994ebf9f4c"
+        "version": "def3051e8e190de4550a208dfa7c8767405c7c48a0f31284cf8ac44f7ea4e577",
+        "signature": "def3051e8e190de4550a208dfa7c8767405c7c48a0f31284cf8ac44f7ea4e577"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/session/manager.d.ts": {
-        "version": "cebe6ff3dffec415074b5e2d8ccccfab81c598688dcd0b9b4024d2055aaa12e9",
-        "signature": "cebe6ff3dffec415074b5e2d8ccccfab81c598688dcd0b9b4024d2055aaa12e9"
+        "version": "3aa3a394107000f00a5f37fa73724a736e00b9002993e0c4de6162fd09bceb4b",
+        "signature": "3aa3a394107000f00a5f37fa73724a736e00b9002993e0c4de6162fd09bceb4b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/session/index.d.ts": {
-        "version": "d59acf9c2c6a2a11accdeab658d49fdc61728a48d26a5fd5392424c95b57df76",
-        "signature": "d59acf9c2c6a2a11accdeab658d49fdc61728a48d26a5fd5392424c95b57df76"
+        "version": "f210d989255927604f6303ad355f7eb2deff241afaff4d6be201534f4404595a",
+        "signature": "f210d989255927604f6303ad355f7eb2deff241afaff4d6be201534f4404595a"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/setting/index.d.ts": {
-        "version": "16b73140bafb72ca878d8741d4d71c1b41ee8398bca52d02ee5b1af805201b95",
-        "signature": "16b73140bafb72ca878d8741d4d71c1b41ee8398bca52d02ee5b1af805201b95"
+        "version": "1eec127f8179edd0cecbb78aecee6dcc2115a2e6f0f2f27d42a08d51b5c59a29",
+        "signature": "1eec127f8179edd0cecbb78aecee6dcc2115a2e6f0f2f27d42a08d51b5c59a29"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts": {
-        "version": "8e54b91a83b8015a19150262108751a69e115a803348ff6ca2a5139339563bf2",
-        "signature": "8e54b91a83b8015a19150262108751a69e115a803348ff6ca2a5139339563bf2"
+        "version": "fbceccc3d93722ddaa8505b12b290d81738267b4e7b762045f9be56cdd75bedf",
+        "signature": "fbceccc3d93722ddaa8505b12b290d81738267b4e7b762045f9be56cdd75bedf"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/terminal/manager.d.ts": {
-        "version": "c4691e16cdefe9c00ba762506432369e4a43f77038d1d06b4c29b657ac37927f",
-        "signature": "c4691e16cdefe9c00ba762506432369e4a43f77038d1d06b4c29b657ac37927f"
+        "version": "bc05f3249b44f8de53515506bba0be81d96ee7d7897cdcec93c709ad8ef4eecc",
+        "signature": "bc05f3249b44f8de53515506bba0be81d96ee7d7897cdcec93c709ad8ef4eecc"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/terminal/index.d.ts": {
-        "version": "b61d4a90465aac992205c735e803c94cf32b48126904aa4c0ec2ad57427e327c",
-        "signature": "b61d4a90465aac992205c735e803c94cf32b48126904aa4c0ec2ad57427e327c"
+        "version": "33711880e40cb3d480fdcef5f756a3254701cc80a3a22ffd7c60909d0febed1c",
+        "signature": "33711880e40cb3d480fdcef5f756a3254701cc80a3a22ffd7c60909d0febed1c"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/workspace/index.d.ts": {
-        "version": "c6c87a73b1e8aa45903fe85f928155b1ba67f9ba31ec30244ac2f3b55e6d06d7",
-        "signature": "c6c87a73b1e8aa45903fe85f928155b1ba67f9ba31ec30244ac2f3b55e6d06d7"
+        "version": "7d38361ff667a8f087529694bcc1de8dd9dcaba7b99fba2b05b42386144859bb",
+        "signature": "7d38361ff667a8f087529694bcc1de8dd9dcaba7b99fba2b05b42386144859bb"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/manager.d.ts": {
-        "version": "c6a383f51d34bf1b3b3ad9bd86a1770b0cd6ac7acbca2e8f60bd0eb9924bc251",
-        "signature": "c6a383f51d34bf1b3b3ad9bd86a1770b0cd6ac7acbca2e8f60bd0eb9924bc251"
+        "version": "c898fe90d3be280bafcf283f9ab065043d1a1c17f01cc6b294bd187e18e075e3",
+        "signature": "c898fe90d3be280bafcf283f9ab065043d1a1c17f01cc6b294bd187e18e075e3"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/services/lib/index.d.ts": {
-        "version": "76805a0903e926ff5d5543f670365da9583cb5b3eb495bc7deceb2d94a956361",
-        "signature": "76805a0903e926ff5d5543f670365da9583cb5b3eb495bc7deceb2d94a956361"
+        "version": "26f2775ecb1136ea1f33c2fea8ff166fadc0d5011f5c2b1c3aeef75b78f00904",
+        "signature": "26f2775ecb1136ea1f33c2fea8ff166fadc0d5011f5c2b1c3aeef75b78f00904"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/clientsession.d.ts": {
-        "version": "7fd0db1512ffaf62df23a41dffbd86b8731e9f07ec442f4eb431fc3c2599d654",
-        "signature": "7fd0db1512ffaf62df23a41dffbd86b8731e9f07ec442f4eb431fc3c2599d654"
+        "version": "1a38fa0f59bc84a514c7da1a51e2b8e5c3e9b6565d4630becdb01ce57cffa934",
+        "signature": "1a38fa0f59bc84a514c7da1a51e2b8e5c3e9b6565d4630becdb01ce57cffa934"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/clipboard.d.ts": {
-        "version": "c1de6cf6e74e500d25176c4e5f7e93f7504ec0939b0c9e4c624a85f557e79a96",
-        "signature": "c1de6cf6e74e500d25176c4e5f7e93f7504ec0939b0c9e4c624a85f557e79a96"
+        "version": "9a3db3b4d56a924a90521c1d9f03f5c5902e2f8c599def259013494426247823",
+        "signature": "9a3db3b4d56a924a90521c1d9f03f5c5902e2f8c599def259013494426247823"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/collapse.d.ts": {
-        "version": "bed27321f84682b19027aac48b38eef1cd203b2b022fadc8c932178372797610",
-        "signature": "bed27321f84682b19027aac48b38eef1cd203b2b022fadc8c932178372797610"
+        "version": "398ddf4ecbe646f8978dd5df119a3ef8efce62f5a61d3f76cd25eba392039b23",
+        "signature": "398ddf4ecbe646f8978dd5df119a3ef8efce62f5a61d3f76cd25eba392039b23"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/commandlinker.d.ts": {
-        "version": "7564cf737b286f72319e175a7337010229e7e6fe24fed567ad3bd38a5d2efa46",
-        "signature": "7564cf737b286f72319e175a7337010229e7e6fe24fed567ad3bd38a5d2efa46"
+        "version": "b8dbb82df19f94cee524a55229c484ed18dfc284e4f3754b0033ae877574308b",
+        "signature": "b8dbb82df19f94cee524a55229c484ed18dfc284e4f3754b0033ae877574308b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/commandpalette.d.ts": {
-        "version": "6f70c40a6e7db2db104a9690144f4d0ca8bcf673321b65b3e2c1b61ea5740e0d",
-        "signature": "6f70c40a6e7db2db104a9690144f4d0ca8bcf673321b65b3e2c1b61ea5740e0d"
+        "version": "b5e0423f663b5c7245eaa8750dfa4f78fa27916cb5839cdf3fc5e4b8a1af48d2",
+        "signature": "b5e0423f663b5c7245eaa8750dfa4f78fa27916cb5839cdf3fc5e4b8a1af48d2"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/widgettracker.d.ts": {
-        "version": "68b34ce9fed1bd574af30b8ffea36a6b260905ea0f66cc22d5d705ed41b3d7a3",
-        "signature": "68b34ce9fed1bd574af30b8ffea36a6b260905ea0f66cc22d5d705ed41b3d7a3"
+        "version": "4814fef4e225f4661ab00c669662c7cad48f9a8fe41301c54580f2ceecfc25f0",
+        "signature": "4814fef4e225f4661ab00c669662c7cad48f9a8fe41301c54580f2ceecfc25f0"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/dialog.d.ts": {
-        "version": "b2af41b791a4b37847f492da0cbe6036afd63a85e0e1c25a2fd4b664b7bb0e82",
-        "signature": "b2af41b791a4b37847f492da0cbe6036afd63a85e0e1c25a2fd4b664b7bb0e82"
+        "version": "3fcefb071eb458f6e973d3d281b681061ea9c78a7ec9bbf7bac3c56c3c37a3c1",
+        "signature": "3fcefb071eb458f6e973d3d281b681061ea9c78a7ec9bbf7bac3c56c3c37a3c1"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/domutils.d.ts": {
-        "version": "269c44f58c2eb308242578b1e9cdcf78561561b529e433316278b8d028e05dc6",
-        "signature": "269c44f58c2eb308242578b1e9cdcf78561561b529e433316278b8d028e05dc6"
+        "version": "8101f953282a96eee2edb2f37f222eb46a579688e560c3351ae0e3ad66438ebb",
+        "signature": "8101f953282a96eee2edb2f37f222eb46a579688e560c3351ae0e3ad66438ebb"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/hoverbox.d.ts": {
-        "version": "7375f5209ca82be7e9d0f5d14e8440c75d34c8c5b2491189558738387766cc47",
-        "signature": "7375f5209ca82be7e9d0f5d14e8440c75d34c8c5b2491189558738387766cc47"
+        "version": "1aeef85f101d6623640784d3208baa1c01922a891d8da0bbdc1439f0863d3656",
+        "signature": "1aeef85f101d6623640784d3208baa1c01922a891d8da0bbdc1439f0863d3656"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/iframe.d.ts": {
-        "version": "b5018103b3932de795ac8a7869d534e0dad02384454e95798d68d3cf6c636da4",
-        "signature": "b5018103b3932de795ac8a7869d534e0dad02384454e95798d68d3cf6c636da4"
+        "version": "791226e899a7520c9159f244312177e1a60b9b125560091597d05d1565cf6cec",
+        "signature": "791226e899a7520c9159f244312177e1a60b9b125560091597d05d1565cf6cec"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/inputdialog.d.ts": {
-        "version": "7bd094000037a1bb3a965b0da67af13440bef1c22cd4fcdd55b785c1e6c87aeb",
-        "signature": "7bd094000037a1bb3a965b0da67af13440bef1c22cd4fcdd55b785c1e6c87aeb"
+        "version": "ed69a707e5bfa8e67412f809723f51d66937d925980758f992ed5b53563b24d4",
+        "signature": "ed69a707e5bfa8e67412f809723f51d66937d925980758f992ed5b53563b24d4"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/vdom.d.ts": {
-        "version": "c6528d9904f44fd9b53c651162815cdb2f44cb5e7ab450bcdb457ff14ec2e211",
-        "signature": "c6528d9904f44fd9b53c651162815cdb2f44cb5e7ab450bcdb457ff14ec2e211"
+        "version": "b04f7aef9bb9e191b79fc3e3608d6c2f4ed24f35d03ebad726ba23ce25edcf04",
+        "signature": "b04f7aef9bb9e191b79fc3e3608d6c2f4ed24f35d03ebad726ba23ce25edcf04"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/toolbar.d.ts": {
-        "version": "fb5b7e030e36dbea00359167c25b6c9f0167038be8b6574d99065970475eff6d",
-        "signature": "fb5b7e030e36dbea00359167c25b6c9f0167038be8b6574d99065970475eff6d"
+        "version": "97c8575b562dd8331a28746bd5fbb5e66605b557567680d2bceee1d8e62b0d0b",
+        "signature": "97c8575b562dd8331a28746bd5fbb5e66605b557567680d2bceee1d8e62b0d0b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/printing.d.ts": {
-        "version": "b4ca9e40e70bc550f861abd400fcb8b1b4dea5fc6d54e02831a766df00ac89b2",
-        "signature": "b4ca9e40e70bc550f861abd400fcb8b1b4dea5fc6d54e02831a766df00ac89b2"
+        "version": "3ed32a63fde7777e759ccdbaa4e5d65fe002278728c6792febdac68ddaaeea87",
+        "signature": "3ed32a63fde7777e759ccdbaa4e5d65fe002278728c6792febdac68ddaaeea87"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/mainareawidget.d.ts": {
-        "version": "57933385eebeb8ce05a2a66b8209f7488c7e172bd77b10384b1e54b4b3c1c4f9",
-        "signature": "57933385eebeb8ce05a2a66b8209f7488c7e172bd77b10384b1e54b4b3c1c4f9"
+        "version": "b871db857867e6149858f731aaee26a874f97fe3178536513dbe0796eefd4141",
+        "signature": "b871db857867e6149858f731aaee26a874f97fe3178536513dbe0796eefd4141"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/sanitizer.d.ts": {
-        "version": "0c39c922105ee9970c935fb0930b96990e4755fe3f413694f56a8f5275e33408",
-        "signature": "0c39c922105ee9970c935fb0930b96990e4755fe3f413694f56a8f5275e33408"
+        "version": "c377cf6d20cf1559b9f84a3d6390bdff74f001cf30df38c717a59f94debe90cb",
+        "signature": "c377cf6d20cf1559b9f84a3d6390bdff74f001cf30df38c717a59f94debe90cb"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/spinner.d.ts": {
-        "version": "5dca63acfeda486bbc5bdc8a106e48f906f05c0c43739915639fe6aa39114c4f",
-        "signature": "5dca63acfeda486bbc5bdc8a106e48f906f05c0c43739915639fe6aa39114c4f"
+        "version": "35834126fb6954101deaa6f3f35816dce7cd690216884a1d120e1dbc36cb768a",
+        "signature": "35834126fb6954101deaa6f3f35816dce7cd690216884a1d120e1dbc36cb768a"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/splash.d.ts": {
-        "version": "3ad4be9b559ecdea3ee91862785c137c4aef081ccfa49fc3f253b644baf58c16",
-        "signature": "3ad4be9b559ecdea3ee91862785c137c4aef081ccfa49fc3f253b644baf58c16"
+        "version": "d79834072df9cc38025e73fc0462e0c5ba1fa514c2d2313ae45022947f167d62",
+        "signature": "d79834072df9cc38025e73fc0462e0c5ba1fa514c2d2313ae45022947f167d62"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/styling.d.ts": {
-        "version": "81d85f71a46246385db566b228099e5bfc96d906cf6876bfa15c8611d65f8def",
-        "signature": "81d85f71a46246385db566b228099e5bfc96d906cf6876bfa15c8611d65f8def"
+        "version": "0317f14d352c00b5d5bc15ce474cbd66c439f9c84a9a7efe3be503afe53de288",
+        "signature": "0317f14d352c00b5d5bc15ce474cbd66c439f9c84a9a7efe3be503afe53de288"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/tokens.d.ts": {
-        "version": "b5bdafbe8b3e4f634248fd8e5ee86c32359ed258cfe9722e6967af672b2e4661",
-        "signature": "b5bdafbe8b3e4f634248fd8e5ee86c32359ed258cfe9722e6967af672b2e4661"
+        "version": "a0a38d9175c98a2ddcc97b6b38f1334e32b836d1d4de96602aeb31f16f5606ec",
+        "signature": "a0a38d9175c98a2ddcc97b6b38f1334e32b836d1d4de96602aeb31f16f5606ec"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/thememanager.d.ts": {
-        "version": "7919fb857a6cefce2378c211baa07711bed2376f640cb499ccc1816628bf7c1d",
-        "signature": "7919fb857a6cefce2378c211baa07711bed2376f640cb499ccc1816628bf7c1d"
+        "version": "55041203dc30e2ef8d5cc6de3ce8dc4fe8c03983258cb8b4fcd1ec20379cc6b6",
+        "signature": "55041203dc30e2ef8d5cc6de3ce8dc4fe8c03983258cb8b4fcd1ec20379cc6b6"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/windowresolver.d.ts": {
-        "version": "cffcf22986c616cf0d58d0a923209a1c56a9b79f8fc3073e7a82f6f472047567",
-        "signature": "cffcf22986c616cf0d58d0a923209a1c56a9b79f8fc3073e7a82f6f472047567"
+        "version": "785404db74028e54237ec8aa9ae96e58e37466fb408560a88c513be3a4a75668",
+        "signature": "785404db74028e54237ec8aa9ae96e58e37466fb408560a88c513be3a4a75668"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/apputils/lib/index.d.ts": {
-        "version": "ea826b2688767a711e9df7cd7544d7cd30c7078df8ab088ef15cbb0494f2c61d",
-        "signature": "ea826b2688767a711e9df7cd7544d7cd30c7078df8ab088ef15cbb0494f2c61d"
+        "version": "e513cc3eb943d0cdee9183fe1cb819568c5434e59257d4233e46a838a08a1078",
+        "signature": "e513cc3eb943d0cdee9183fe1cb819568c5434e59257d4233e46a838a08a1078"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/labmenu.d.ts": {
-        "version": "ce80423e93892e0817986fccd4a6e421141b63d1f9d7f1f9b0023b54c0a505b2",
-        "signature": "ce80423e93892e0817986fccd4a6e421141b63d1f9d7f1f9b0023b54c0a505b2"
+        "version": "89313f6fd9f85a097e9592b44650df87d3287ad2eec7d5f83e13f3159ab9c113",
+        "signature": "89313f6fd9f85a097e9592b44650df87d3287ad2eec7d5f83e13f3159ab9c113"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/file.d.ts": {
-        "version": "505414cad6020c64028c35bb8cd9f7e51ce95f5688126c50050fa242aea4bfb3",
-        "signature": "505414cad6020c64028c35bb8cd9f7e51ce95f5688126c50050fa242aea4bfb3"
+        "version": "5533c38201b67187bee0e42af5de0dedfac57d858740a041160779fab058f5f0",
+        "signature": "5533c38201b67187bee0e42af5de0dedfac57d858740a041160779fab058f5f0"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/edit.d.ts": {
-        "version": "b36b840f90343f357ef75eab0723625cdd17ea95fcf9bdd5f8de5904a41971f9",
-        "signature": "b36b840f90343f357ef75eab0723625cdd17ea95fcf9bdd5f8de5904a41971f9"
+        "version": "7deb6deba1d6fbde17ccfcb790230f3d369b6042fcb2b224b19e1dc7a5173fcf",
+        "signature": "7deb6deba1d6fbde17ccfcb790230f3d369b6042fcb2b224b19e1dc7a5173fcf"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/help.d.ts": {
-        "version": "0f301c55ed62c8ac1502c57ddf2e973e5504807594434de13ba38781c598c7b0",
-        "signature": "0f301c55ed62c8ac1502c57ddf2e973e5504807594434de13ba38781c598c7b0"
+        "version": "f53645610e750a20c33f0a4d74d6aaee76fbaf5abee9fbf831afc245d4aa7c62",
+        "signature": "f53645610e750a20c33f0a4d74d6aaee76fbaf5abee9fbf831afc245d4aa7c62"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/kernel.d.ts": {
-        "version": "fc03ba141d5b72c4ea673c258652c7efb6468a3f601a5dda864702c6a4cee851",
-        "signature": "fc03ba141d5b72c4ea673c258652c7efb6468a3f601a5dda864702c6a4cee851"
+        "version": "7deec39cd63105e89b1f197936168778b719cf39fd58cf476aa36052edcf5d06",
+        "signature": "7deec39cd63105e89b1f197936168778b719cf39fd58cf476aa36052edcf5d06"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/run.d.ts": {
-        "version": "aecc3611d01c43af328bb239a7575bd4a8af9b1f54488d02f26f35d5ec513e8d",
-        "signature": "aecc3611d01c43af328bb239a7575bd4a8af9b1f54488d02f26f35d5ec513e8d"
+        "version": "c2ddec9cd5fea9c450afb7912948e9b57c7e45b6adbed224e85c181b21e146eb",
+        "signature": "c2ddec9cd5fea9c450afb7912948e9b57c7e45b6adbed224e85c181b21e146eb"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/settings.d.ts": {
-        "version": "45bd327a6711559c5cc7fff3dace084dfa67c89fff0b72548b36ba36ad0e2359",
-        "signature": "45bd327a6711559c5cc7fff3dace084dfa67c89fff0b72548b36ba36ad0e2359"
+        "version": "60f1375da1e4ac24ff24e0e05ab0313ad99feb4560c6c9ed719bc9eb893c93a1",
+        "signature": "60f1375da1e4ac24ff24e0e05ab0313ad99feb4560c6c9ed719bc9eb893c93a1"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/view.d.ts": {
-        "version": "3f032c6f70b2ea76fbefe378d329eb11be107676f2b5b77ee6ac43695e60d98e",
-        "signature": "3f032c6f70b2ea76fbefe378d329eb11be107676f2b5b77ee6ac43695e60d98e"
+        "version": "90cca000a763506311c0f7d96d9ab60a93774d6aea30f225f4c025dd44e47084",
+        "signature": "90cca000a763506311c0f7d96d9ab60a93774d6aea30f225f4c025dd44e47084"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/tabs.d.ts": {
-        "version": "be619d0a4fb21fa3d92ae61dda35b96dc267555f34f7cb0aadf562947b14e006",
-        "signature": "be619d0a4fb21fa3d92ae61dda35b96dc267555f34f7cb0aadf562947b14e006"
+        "version": "61a810d421aa328d0899c19a28788013664509e3676adc4cdece017f71774719",
+        "signature": "61a810d421aa328d0899c19a28788013664509e3676adc4cdece017f71774719"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/tokens.d.ts": {
-        "version": "60a838c07314ff9678cfe350f8b71280117fa63790216931cf5764416afcc532",
-        "signature": "60a838c07314ff9678cfe350f8b71280117fa63790216931cf5764416afcc532"
+        "version": "77cc64f5e1bc53c71d550263e93035313ace1986c31a28a90d980ccd779355c1",
+        "signature": "77cc64f5e1bc53c71d550263e93035313ace1986c31a28a90d980ccd779355c1"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/mainmenu.d.ts": {
-        "version": "d85ca9105cac9d6bde285d5e6dd2d7465aab6f8202bdbe73f2392343f8611229",
-        "signature": "d85ca9105cac9d6bde285d5e6dd2d7465aab6f8202bdbe73f2392343f8611229"
+        "version": "1f2a24042da0e0269eabeffd161118ec24ea34ac51571a6f330ac6a47700a1c3",
+        "signature": "1f2a24042da0e0269eabeffd161118ec24ea34ac51571a6f330ac6a47700a1c3"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/mainmenu/lib/index.d.ts": {
-        "version": "bc0eabe5a2aa6ffb285060b5dbaa82f6ef030c55451926988bf33467ae3b714b",
-        "signature": "bc0eabe5a2aa6ffb285060b5dbaa82f6ef030c55451926988bf33467ae3b714b"
+        "version": "010d846d1bc4f8d78e82e6075dbe1c9c1028cad3d8e542ed2cae0ebee05db156",
+        "signature": "010d846d1bc4f8d78e82e6075dbe1c9c1028cad3d8e542ed2cae0ebee05db156"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/tokens.d.ts": {
-        "version": "ca8d409eba8e4d61b387398e75ea1b57ab3e41f3c5ae5a7cf296d5e642fc77f0",
-        "signature": "ca8d409eba8e4d61b387398e75ea1b57ab3e41f3c5ae5a7cf296d5e642fc77f0"
+        "version": "e5ded2422cb91f9048cfad46a37f2e51be0081f024a1c032abf63e8be96a1718",
+        "signature": "e5ded2422cb91f9048cfad46a37f2e51be0081f024a1c032abf63e8be96a1718"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/connectionlost.d.ts": {
-        "version": "d970874c1e3a6dacb646840b1f48ea40c401a170e7da08011faa5cee3921c2df",
-        "signature": "d970874c1e3a6dacb646840b1f48ea40c401a170e7da08011faa5cee3921c2df"
+        "version": "4078af51a426601e46cedc694ee3d046b5a144397872dd3f245b9dddd204c8b4",
+        "signature": "4078af51a426601e46cedc694ee3d046b5a144397872dd3f245b9dddd204c8b4"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts": {
         "version": "98189a1965d81f3d2cffbef6684783e271184812135bf33d664abc72e25ec85b",
@@ -702,112 +706,112 @@
         "signature": "f2535a01907d8162ab7a6f7f6135c540a7effcbc48ab6f12859cccdbfe26748b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/docregistry/lib/registry.d.ts": {
-        "version": "c86c913e94fd62221cdf4622b52726d3b61f552f6f69fafb482e28f832e144a9",
-        "signature": "c86c913e94fd62221cdf4622b52726d3b61f552f6f69fafb482e28f832e144a9"
+        "version": "1516b6a33cf63e44b580df1d658af54ab5362c873573fd1a3674b38807f96dda",
+        "signature": "1516b6a33cf63e44b580df1d658af54ab5362c873573fd1a3674b38807f96dda"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/docregistry/lib/context.d.ts": {
-        "version": "af31898c4f527b1db7cbb6d02d67d3bb367e19ab4248fcc26a6ec237ac42102e",
-        "signature": "af31898c4f527b1db7cbb6d02d67d3bb367e19ab4248fcc26a6ec237ac42102e"
+        "version": "2137f0faa1c2aec3bfb6ae8a775035f8ec909f1ca69935824ba95be104243a64",
+        "signature": "2137f0faa1c2aec3bfb6ae8a775035f8ec909f1ca69935824ba95be104243a64"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/docregistry/lib/default.d.ts": {
-        "version": "1d2746707de095912f139bc63901613a8650cefc00f85c4970317f2630896cf7",
-        "signature": "1d2746707de095912f139bc63901613a8650cefc00f85c4970317f2630896cf7"
+        "version": "5120fcb5298849bdbe00b2213f4321a52054e6877e52bd9be60e997bc37b235b",
+        "signature": "5120fcb5298849bdbe00b2213f4321a52054e6877e52bd9be60e997bc37b235b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/attachmentmodel.d.ts": {
-        "version": "600f601cd65d3e8a8671922ab0677834106570666bc8258df591587225babcbe",
-        "signature": "600f601cd65d3e8a8671922ab0677834106570666bc8258df591587225babcbe"
+        "version": "64e06ff29855ab58472e4257726c5a3dddc9a54d25e2685e7325db403070d083",
+        "signature": "64e06ff29855ab58472e4257726c5a3dddc9a54d25e2685e7325db403070d083"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/factories.d.ts": {
-        "version": "c57c6fa99b6046720bd8f025a5672d627e370f00d381877daadaf7f50231597c",
-        "signature": "c57c6fa99b6046720bd8f025a5672d627e370f00d381877daadaf7f50231597c"
+        "version": "5067f1f48417bf2be4e7f4352b6fc4d61b8e74080fef1f3fe00f14e4f6f58d7a",
+        "signature": "5067f1f48417bf2be4e7f4352b6fc4d61b8e74080fef1f3fe00f14e4f6f58d7a"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/latex.d.ts": {
-        "version": "02b7668d8e83062cff117205285ad2c12e859939e4a33053dc69c2236eb8ff5b",
-        "signature": "02b7668d8e83062cff117205285ad2c12e859939e4a33053dc69c2236eb8ff5b"
+        "version": "010877b689dac0faf7d7891c4550771ccc62c7a110901b1966b59e82ffa08a27",
+        "signature": "010877b689dac0faf7d7891c4550771ccc62c7a110901b1966b59e82ffa08a27"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/mimemodel.d.ts": {
-        "version": "cc9faaa18ebaf90447ae273a9718c4f50eca90f24a0daa85e85ce53f9b4b5c6c",
-        "signature": "cc9faaa18ebaf90447ae273a9718c4f50eca90f24a0daa85e85ce53f9b4b5c6c"
+        "version": "063c93a9608c846c1636454644e15a1d21b6047798357a5656be01b0e7588e1d",
+        "signature": "063c93a9608c846c1636454644e15a1d21b6047798357a5656be01b0e7588e1d"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/outputmodel.d.ts": {
-        "version": "e8517fc7a7b777e3a91cb7b86de9b7d67ad290162681b8eca2311e4d4601eb64",
-        "signature": "e8517fc7a7b777e3a91cb7b86de9b7d67ad290162681b8eca2311e4d4601eb64"
+        "version": "3f7d4482c0841a2a0cd7690bbdf0b9438151a019ca25299b297cf9d7fb7d1aa1",
+        "signature": "3f7d4482c0841a2a0cd7690bbdf0b9438151a019ca25299b297cf9d7fb7d1aa1"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/tokens.d.ts": {
-        "version": "f2c410702a0a78a1d5e7375dce104a0c77513a898bbd6a43c80b8196fc453fb3",
-        "signature": "f2c410702a0a78a1d5e7375dce104a0c77513a898bbd6a43c80b8196fc453fb3"
+        "version": "11abbe731e04390586353bb5185787f937b7c7826f7b8aa85c5960c5239c35da",
+        "signature": "11abbe731e04390586353bb5185787f937b7c7826f7b8aa85c5960c5239c35da"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/registry.d.ts": {
-        "version": "655e1078361414ac5149c482d21c931b4371c48fd63a365f030e0e30c1b07ecb",
-        "signature": "655e1078361414ac5149c482d21c931b4371c48fd63a365f030e0e30c1b07ecb"
+        "version": "eb78f6f03cd7e5e629f2772f398482497bf634bfc6242493cf4555c994623c98",
+        "signature": "eb78f6f03cd7e5e629f2772f398482497bf634bfc6242493cf4555c994623c98"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/renderers.d.ts": {
-        "version": "aae9cd4316ba3d85662206d57dfe554b1155229094d13a7302bd4a63de587fb6",
-        "signature": "aae9cd4316ba3d85662206d57dfe554b1155229094d13a7302bd4a63de587fb6"
+        "version": "bee5c3609236d615fca2c68c1a3b70b723212fb3a8bc9dac6470e66449ac658f",
+        "signature": "bee5c3609236d615fca2c68c1a3b70b723212fb3a8bc9dac6470e66449ac658f"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/widgets.d.ts": {
-        "version": "1118219d6b85f3bd71afb24a2d887cf1671cd1c60fb97952550c628d75cd5454",
-        "signature": "1118219d6b85f3bd71afb24a2d887cf1671cd1c60fb97952550c628d75cd5454"
+        "version": "c5f92e34ead2aa3ffe065a3de0986fdc36df0a0fba11bb81dd4d30de61bf0707",
+        "signature": "c5f92e34ead2aa3ffe065a3de0986fdc36df0a0fba11bb81dd4d30de61bf0707"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/rendermime/lib/index.d.ts": {
-        "version": "5ea889d05c5209e0e2473d0deb116e903d20e1c4fab37802b37fef23360a696c",
-        "signature": "5ea889d05c5209e0e2473d0deb116e903d20e1c4fab37802b37fef23360a696c"
+        "version": "6d8385fefbcc36ff0a71c3d7a8d8e3190f510ac4dc594da15833d39d3950cbc2",
+        "signature": "6d8385fefbcc36ff0a71c3d7a8d8e3190f510ac4dc594da15833d39d3950cbc2"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/docregistry/lib/mimedocument.d.ts": {
-        "version": "6dbe54e399c8dc722e65565924d8c5a3e2d43906b22d0dbc79a558312efdc807",
-        "signature": "6dbe54e399c8dc722e65565924d8c5a3e2d43906b22d0dbc79a558312efdc807"
+        "version": "58fcf6a51e4764bb9a44174de64d883c88ecf7f457ecde8926e95058b18d4ed2",
+        "signature": "58fcf6a51e4764bb9a44174de64d883c88ecf7f457ecde8926e95058b18d4ed2"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/docregistry/lib/index.d.ts": {
-        "version": "a6726744901b67f4d45357e674de4c0c20eee486e1adbde98b0f798706c4c5de",
-        "signature": "a6726744901b67f4d45357e674de4c0c20eee486e1adbde98b0f798706c4c5de"
+        "version": "69c33ec20590a94e1ac82e2bcfc9a038cc5aba396b6886b5429b81d9ab50728d",
+        "signature": "69c33ec20590a94e1ac82e2bcfc9a038cc5aba396b6886b5429b81d9ab50728d"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/application/lib/index.d.ts": {
         "version": "a18d922ad75e225c4724590710a0f6278275ca425946b5c4cdb83725d1606b02",
         "signature": "a18d922ad75e225c4724590710a0f6278275ca425946b5c4cdb83725d1606b02"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/frontend.d.ts": {
-        "version": "dfa3a648e079eaa4753587a82215c63a3cc70a14b9d34b2d87303a319c24e8e8",
-        "signature": "dfa3a648e079eaa4753587a82215c63a3cc70a14b9d34b2d87303a319c24e8e8"
+        "version": "76180cf0c9eeb7644d2de66dbb0bf0c8bdd8b2b314cc0efb925765f30aa8ebac",
+        "signature": "76180cf0c9eeb7644d2de66dbb0bf0c8bdd8b2b314cc0efb925765f30aa8ebac"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/shell.d.ts": {
-        "version": "b0e5cb7d6d08eb40081aa253e5635122d0ea0014a1da7a877edbadea8170061e",
-        "signature": "b0e5cb7d6d08eb40081aa253e5635122d0ea0014a1da7a877edbadea8170061e"
+        "version": "ca3817b4e2b4e6a92dddf8e3247028a9062b8aefe268aed894776f2bdd8ec69a",
+        "signature": "ca3817b4e2b4e6a92dddf8e3247028a9062b8aefe268aed894776f2bdd8ec69a"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/status.d.ts": {
-        "version": "9a577cfba5692645c83336ea8718958d37112042670d6f4e623a6a0b5cfe0a13",
-        "signature": "9a577cfba5692645c83336ea8718958d37112042670d6f4e623a6a0b5cfe0a13"
+        "version": "2779883b8c03973d903aca15a7173fcc1bf7e8ec9e5120e7e232a7c96203559d",
+        "signature": "2779883b8c03973d903aca15a7173fcc1bf7e8ec9e5120e7e232a7c96203559d"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/lab.d.ts": {
-        "version": "277064962e6e486f5d3d7ea1f9e29b3c6b664ea593238b3af9c2c8add65c934e",
-        "signature": "277064962e6e486f5d3d7ea1f9e29b3c6b664ea593238b3af9c2c8add65c934e"
+        "version": "bbedd0d9be3128f17c48f3fbbf3a43b9405521bc5292946c2eb6ccfa0449839f",
+        "signature": "bbedd0d9be3128f17c48f3fbbf3a43b9405521bc5292946c2eb6ccfa0449839f"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/layoutrestorer.d.ts": {
-        "version": "7253e045da18e42d524619a90d68b70a4d49644961902bbeffac222930bb9fa2",
-        "signature": "7253e045da18e42d524619a90d68b70a4d49644961902bbeffac222930bb9fa2"
+        "version": "4eb3d80f7a0842358f6f6a003a8f4d0990f251bb8ba895899319c35b9fb7ca6b",
+        "signature": "4eb3d80f7a0842358f6f6a003a8f4d0990f251bb8ba895899319c35b9fb7ca6b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/mimerenderers.d.ts": {
-        "version": "2128763a3463227300f7fc23cdfde0f901694d4ce90c80db818682855d48f554",
-        "signature": "2128763a3463227300f7fc23cdfde0f901694d4ce90c80db818682855d48f554"
+        "version": "572304389f77a32172b497ecf674f6f3556a81d9b9a17884c07b052d38be22ab",
+        "signature": "572304389f77a32172b497ecf674f6f3556a81d9b9a17884c07b052d38be22ab"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/router.d.ts": {
-        "version": "2930a8ee3cad0fcac3eac251ad6e145956552df1e346fe65fbe5f5c85df81e92",
-        "signature": "2930a8ee3cad0fcac3eac251ad6e145956552df1e346fe65fbe5f5c85df81e92"
+        "version": "df4fd88d08c8c8ecae4706da59556de6dd4b7ec569f63468c9c4ecca04eac686",
+        "signature": "df4fd88d08c8c8ecae4706da59556de6dd4b7ec569f63468c9c4ecca04eac686"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@jupyterlab/application/lib/index.d.ts": {
-        "version": "2a5d64da2fa9e998e60a501ad19bac2a0cb2a671efa15f5c87f8725fbf4178ea",
-        "signature": "2a5d64da2fa9e998e60a501ad19bac2a0cb2a671efa15f5c87f8725fbf4178ea"
+        "version": "7a7e8dec050f4ad9d6b093812a3a203acb13a32364079db20f7a6fde38f8427c",
+        "signature": "7a7e8dec050f4ad9d6b093812a3a203acb13a32364079db20f7a6fde38f8427c"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorialmanager.tsx": {
-        "version": "15356bc33ea241460d2ba130c6d9f4a037cb5ec55e6350b801be207b3462187f",
-        "signature": "32df4d4dbc089319f7a2752d826a1dc726a5ecf2346b4943d6e690ece32e9c28"
+        "version": "ff339ac329bff74aee639a82828e84b2c64d45f8207351c2f25beb76492d62e1",
+        "signature": "0c45060f34450ce0563e5d91d94c1e786ba5e783183bbff20adf600fe2dca1a4"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorial.ts": {
-        "version": "b8fd687a255e3b998c6fe368e98c6ddf6737e1a5a57115858b5914ab5a731b82",
-        "signature": "0f0209c943da464d28b845ee1e7c4f17c13324589c69d02448aebe6e2e193c2e"
+        "version": "ed4d61a60f916341c96bc22ab423376c698147480d338dbf1d69613b93673366",
+        "signature": "bf766d5a59b614e8b564d267a49bf20ae657d063d96e7b3c1625c93d84d4a189"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutoriallauncher.tsx": {
-        "version": "3fc5f448da65ab774bacceec72790987404d0b3f70187e9d49a3bfb138bce445",
-        "signature": "f0595f83b5ee14dd25f14edb4ce27d08dadffa280ac185c32854e52a97a2a4a5"
+        "version": "6752d8d433af49a986bb222e8a3523cc57948dab46dc535cc4a7156af17ec1f5",
+        "signature": "43aee1b9cca92c00282266f8daa270de5285f60ced6797ae8552806838746007"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/index.ts": {
         "version": "1f4cbf9b8000ff30612c751e9fa507a476d01558f87b7dfd156a1140f9ad9f7f",
@@ -854,6 +858,9 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/empty.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts"
       ],
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/enumerate.d.ts": [
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts"
+      ],
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/filter.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts"
       ],
@@ -891,6 +898,7 @@
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/array.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/chain.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/empty.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/enumerate.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/filter.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/find.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts",
@@ -1779,6 +1787,7 @@
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@types/react/global.d.ts"
       ],
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutoriallauncher.tsx": [
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tokens.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/tutorial.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@types/react/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/src/constants.ts"
@@ -2507,6 +2516,7 @@
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/array.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/chain.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/empty.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/enumerate.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/filter.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/find.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts",
@@ -2666,6 +2676,9 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/filter.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts"
       ],
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/enumerate.d.ts": [
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts"
+      ],
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/empty.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts"
       ],
@@ -2739,6 +2752,7 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/iter.d.ts",
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/chain.d.ts",
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/empty.d.ts",
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/enumerate.d.ts",
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/filter.d.ts",
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/find.d.ts",
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial/node_modules/@phosphor/algorithm/lib/map.d.ts",
