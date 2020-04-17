@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-tutorial",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A package which provides a tutorial manager for incorporating interactive tutorials within JupyterLab.",
   "keywords": [
     "jupyter",
@@ -31,24 +31,26 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^1.0.2",
-    "@jupyterlab/mainmenu": "^1.0.2",
-    "@types/react": "^16.8.24",
-    "@types/react-dom": "^16.8.5",
-    "@types/react-joyride": "^2.0.2",
+    "@jupyterlab/application": "^2.1.0",
+    "@jupyterlab/mainmenu": "^2.1.0",
+    "@types/react": "~16.9.0",
+    "@types/react-dom": "~16.9.0",
+    "@types/react-joyride": "^2.0.5",
     "prop-types": "^15.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-joyride": "^2.1.1"
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-joyride": "^2.2.1"
   },
   "devDependencies": {
-    "prettier": "^1.18.2",
+    "bufferutil": "^4.0.1",
+    "prettier": "^1.19.1",
     "prettier-tslint": "^0.4.2",
-    "rimraf": "^2.6.1",
-    "tslint": "^5.18.0",
+    "rimraf": "^2.7.1",
+    "tslint": "^5.20.1",
     "tslint-config-prettier": "^1.18.0",
-    "tslint-react": "^4.0.0",
-    "typescript": "^3.5.3"
+    "tslint-react": "^4.2.0",
+    "typescript": "^3.8.3",
+    "utf-8-validate": "^5.0.2"
   },
   "sideEffects": [
     "style/*.css"

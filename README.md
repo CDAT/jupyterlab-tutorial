@@ -30,3 +30,30 @@ npm run build
 jupyter lab build
 ```
 
+## Steps to test npm package without publishing (MacOS):
+1.  Go to the package repository/directory
+```bash
+cd <package/directory>
+```
+
+2. Prepare the tar package with npm
+```bash
+npm pack
+```
+
+3. Copy the package to home directory for simplicity
+```bash
+cp jupyterlab-tutorial-<version>.tgz ~
+#Copy the package to the cache folder too if testing in JupyterLab:
+cp jupyterlab-tutorial-extension-<version>.tgz ~/Library/Caches
+```
+
+5. Go to the project directory where the package is needed for testing
+```bash
+cd <project/where/you/need/package>
+```
+
+6. Install the package using the home directory
+```
+npm install ~/jupyterlab-tutorial-<version>.tgz
+```

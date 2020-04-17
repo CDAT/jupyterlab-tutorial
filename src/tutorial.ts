@@ -1,9 +1,9 @@
 import { Placement, Step, CallBackProps } from "react-joyride";
-import { Menu } from "@phosphor/widgets";
-import { Signal, ISignal } from "@phosphor/signaling";
+import { Menu } from "@lumino/widgets";
+import { Signal, ISignal } from "@lumino/signaling";
 import { TutorialDefault, TutorialOptions } from "./constants";
 import { ITutorial } from "./tokens";
-import { IDisposable } from "@phosphor/disposable";
+import { IDisposable } from "@lumino/disposable";
 import { TutorialManager } from "./tutorialManager";
 
 export class Tutorial implements ITutorial {
