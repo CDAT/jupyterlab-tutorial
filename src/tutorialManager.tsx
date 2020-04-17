@@ -1,6 +1,6 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-import { Widget } from "@phosphor/widgets";
+import { Widget } from "@lumino/widgets";
 import { MainMenu } from "@jupyterlab/mainmenu";
 import { JupyterFrontEnd } from "@jupyterlab/application";
 import ErrorBoundary from "./ErrorBoundary";
