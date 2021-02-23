@@ -8,6 +8,8 @@ export type LocaleOptions = {
   skip: string;
 };
 
+export type TutorialStep = Step;
+
 export type StyleOptions = {
   arrowColor: string;
   backgroundColor: string;
@@ -89,7 +91,7 @@ export class TutorialDefault {
     };
   }
 
-  static get steps(): Step[] {
+  static get steps(): TutorialStep[] {
     return [
       {
         content:
